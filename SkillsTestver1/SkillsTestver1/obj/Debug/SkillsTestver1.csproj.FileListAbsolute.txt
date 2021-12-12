@@ -1,0 +1,13 @@
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\bin\Debug\Database1.mdf
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\bin\Debug\Database1_log.ldf
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\bin\Debug\SkillsTestver1.exe.config
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\bin\Debug\SkillsTestver1.exe
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\bin\Debug\SkillsTestver1.pdb
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.csproj.AssemblyReference.cache
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.csproj.SuggestedBindingRedirects.cache
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.Form1.resources
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.Properties.Resources.resources
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.csproj.GenerateResource.cache
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.csproj.CoreCompileInputs.cache
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.exe
+C:\Users\franz\source\repos\SkillsTestver1\SkillsTestver1\obj\Debug\SkillsTestver1.pdb
